@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Binance Futures Trading Bot</title>
 </head>
 <body style="font-family: Arial, sans-serif; line-height: 1.6;">
 
