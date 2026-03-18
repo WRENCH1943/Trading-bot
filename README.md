@@ -49,7 +49,7 @@ trading_bot/
 
 <h3>1. Clone Repository</h3>
 <pre>
-git clone &lt;https://github.com/WRENCH1943/Trading-bot/tree/main&gt;
+git clone &lt;https://github.com/WRENCH1943/Trading-bot&gt;
 cd trading_bot
 </pre>
 
