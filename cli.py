@@ -1,5 +1,5 @@
-API_KEY = "YkWFeVmM8ltzm98tBNXp8LAL0E90uaJ2wDj3M38Sn6Onc3GHIjJ5JYNgruv8S1Sh"
-API_SECRET = "pHKwMXXZhYdZYAU3bNyhUAB7FIQB9zRgjsvXmZWVMTa4wocDf2NGzUfIgHn4x5gC"
+API_KEY = "api_key"
+API_SECRET = "api_secret"
 import argparse
 import logging
 
