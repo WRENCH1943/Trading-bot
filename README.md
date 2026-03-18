@@ -55,7 +55,9 @@ cd trading_bot
 
 <h3>2. Install Dependencies</h3>
 <pre>
-pip install -r requirements.txt
+pip install python-binance
+  or
+pip3 install python-binance
 </pre>
 
 <h3>3. Configure API Keys</h3>
