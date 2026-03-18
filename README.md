@@ -55,16 +55,16 @@ cd trading_bot
 
 <h3>2. Install Dependencies</h3>
 <pre>
-pip install python-binance
+pip install requirements.txt
   or
-pip3 install python-binance
+pip3 install requirements.txt
 </pre>
 
 <h3>3. Configure API Keys</h3>
 <p>Edit <b>cli.py</b> and add:</p>
 <pre>
-API_KEY = "your_api_key"
-API_SECRET = "your_api_secret"
+API_KEY = "api_key"
+API_SECRET = "api_secret"
 </pre>
 
 <h2>▶️ Usage</h2>
